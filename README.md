@@ -1,3 +1,11 @@
+# My Personal Portofolio using react
+
+This project is my personal project for my portofolio website, using React and tailwindcss. it just basic Web portofolio and I try to make it simple and informative at the same time.
+
+hope you enjoy and feel free to give some feedback!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
