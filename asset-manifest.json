@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Mellvinportofolio/static/css/main.cd9049cd.css",
-    "main.js": "/Mellvinportofolio/static/js/main.68fdab57.js",
-    "static/js/453.ad6eb26e.chunk.js": "/Mellvinportofolio/static/js/453.ad6eb26e.chunk.js",
+    "main.js": "/Mellvinportofolio/static/js/main.9633ca4e.js",
+    "static/js/453.98e215eb.chunk.js": "/Mellvinportofolio/static/js/453.98e215eb.chunk.js",
     "static/media/image3.png": "/Mellvinportofolio/static/media/image3.587959aebd00bc3d2a71.png",
     "static/media/image2.png": "/Mellvinportofolio/static/media/image2.5cde72785975429a9620.png",
     "static/media/image1.png": "/Mellvinportofolio/static/media/image1.53dcbc51616a1fed8c8b.png",
     "static/media/image.png": "/Mellvinportofolio/static/media/image.453492e21e86e258fad0.png",
     "index.html": "/Mellvinportofolio/index.html",
     "main.cd9049cd.css.map": "/Mellvinportofolio/static/css/main.cd9049cd.css.map",
-    "main.68fdab57.js.map": "/Mellvinportofolio/static/js/main.68fdab57.js.map",
-    "453.ad6eb26e.chunk.js.map": "/Mellvinportofolio/static/js/453.ad6eb26e.chunk.js.map"
+    "main.9633ca4e.js.map": "/Mellvinportofolio/static/js/main.9633ca4e.js.map",
+    "453.98e215eb.chunk.js.map": "/Mellvinportofolio/static/js/453.98e215eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd9049cd.css",
-    "static/js/main.68fdab57.js"
+    "static/js/main.9633ca4e.js"
   ]
 }
