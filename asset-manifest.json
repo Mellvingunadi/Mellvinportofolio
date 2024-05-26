@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mellvingunadi.github-io/static/css/main.cd9049cd.css",
+    "main.js": "/Mellvingunadi.github-io/static/js/main.e3a0477d.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Mellvingunadi.github-io/static/js/453.ad6eb26e.chunk.js",
+    "static/media/image3.png": "/Mellvingunadi.github-io/static/media/image3.587959aebd00bc3d2a71.png",
+    "static/media/image2.png": "/Mellvingunadi.github-io/static/media/image2.5cde72785975429a9620.png",
+    "static/media/image1.png": "/Mellvingunadi.github-io/static/media/image1.53dcbc51616a1fed8c8b.png",
+    "static/media/image.png": "/Mellvingunadi.github-io/static/media/image.453492e21e86e258fad0.png",
+    "index.html": "/Mellvingunadi.github-io/index.html",
+    "main.cd9049cd.css.map": "/Mellvingunadi.github-io/static/css/main.cd9049cd.css.map",
+    "main.e3a0477d.js.map": "/Mellvingunadi.github-io/static/js/main.e3a0477d.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Mellvingunadi.github-io/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9049cd.css",
+    "static/js/main.e3a0477d.js"
+  ]
+}
